@@ -1,6 +1,6 @@
 <p align='center'><img src='https://raw.githubusercontent.com/arpanaditya/Ment-Ally/main/Web-App/public/favicon.ico' width="150"alt="Ment-Ally Logo" ></p>
 <h1 align='center'> Ment-Ally</h1>
-<h3 align="center">View at: https://ment-ally.xyz </h3>
+<h3 align="center">View at: https://ment-ally-3fc6a.web.app/ </h3>
 <h3 align="center"><a href="https://docs.google.com/presentation/d/1nulYHpQArnUjRhHjWhPXvC-IQZeCjpDq26V4w7HptIY/edit?usp=sharing">View the presentaton</a></h3>
 <h2>The problem it solves:relaxed: </h2>
 <p align='justify'>
